@@ -307,3 +307,5 @@ require (
 )
 
 replace github.com/exoscale/egoscale => github.com/exoscale/egoscale v0.102.3
+
+replace github.com/xtls/xray-core v1.8.20 => github.com/hym1884603/custom-Xray-core v1.8.20-custom
